@@ -4,7 +4,7 @@
 
 @layer base{
     button {
-        @apply border border-black rounded-xl px-5 py-1
+        @apply rounded-full px-2 py-2 hover:bg-gray-200 mx-2
     }
    
 }
